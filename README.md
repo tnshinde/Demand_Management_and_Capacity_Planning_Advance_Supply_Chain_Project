@@ -1,6 +1,12 @@
 
 🚚 **Drizly (Uber Eats)** Supply Chain Optimization & Analysis 📊
 
+**Screenshots of the analysis**
+
+<img width="681" alt="image" src="https://github.com/user-attachments/assets/f08cd171-32c1-4602-85b5-79a12be44356">
+
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/12f83580-c461-4226-aaa1-c2d251744be6">
+
 This project focuses on optimizing Drizly's last-mile delivery operations based on data analysis and strategic recommendations. By leveraging Excel for data insights and applying best practices from supply chain management, this project aims to enhance efficiency, customer satisfaction, and profitability.
 
 🛠️ ** Project Overview**
@@ -56,9 +62,5 @@ Review the PDF Report: Understand the detailed recommendations.
 🤝 **Contributing**
 Contributions are welcome! If you have ideas for improvement or additional insights, feel free to open an issue or submit a pull request.
 
-**Screenshots of the analysis**
 
-<img width="681" alt="image" src="https://github.com/user-attachments/assets/f08cd171-32c1-4602-85b5-79a12be44356">
-
-<img width="511" alt="image" src="https://github.com/user-attachments/assets/12f83580-c461-4226-aaa1-c2d251744be6">
 
